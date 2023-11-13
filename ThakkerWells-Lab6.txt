@@ -1,0 +1,6 @@
+2a) return d2[14310]
+2b) d1["LH"] = 106
+2c) d1["BH"] = 1020
+2d) del d1[14310]
+2e) if "lovelace" in d3
+2f) d4 = {}

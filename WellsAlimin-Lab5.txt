@@ -1,0 +1,22 @@
+Jonathan Wells Prodescu Alimin
+
+
+
+######The capital "I"s are meant to be lowercase, my computer is auto capitalizing them
+a. ['a','e','I','o','u',"y"]
+b. ['a','e','I','o','u', "y"]
+c. ['a','e','i','o','u']
+d.  ['a','e','o','u',"y"]
+e. ['a','e','o','u', "y"]
+f. ['a','e','I','o','u']
+g. ['a','e','o','u',"y"]
+h. ['a','e','o','u', "y"]
+i. ['a','e','o','u']
+j. [0,1,2,3,4,5,6,7]
+k. ['a','e','o','u', "y"]
+l. [0,1,2,3,0,0]
+m. []
+
+
+
+
