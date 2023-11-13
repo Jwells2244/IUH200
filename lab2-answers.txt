@@ -1,0 +1,20 @@
+1.
+a) None
+b) NoneType
+c) For outlier cases like this where a return and or type is not applicable, a null case if you will
+
+2.
+a) 2
+b) 3
+c) 2
+
+d) """This function takes two numbers, and puts the first to the power of the second
+      Number, Number -> Number"""
+e) base and exp
+f) result of pow(base, exp) which is the int 243
+g) It takes the string "base^exp = 243"
+h) A string
+i) Print always 'returns' the value None
+j)an integer 243
+
+
